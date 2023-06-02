@@ -7,7 +7,6 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -92,7 +91,7 @@ If you like this project give a ⭐️
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Microvere team.
+I would like to thank Microvere team.!
 
 
 <!-- LICENSE -->

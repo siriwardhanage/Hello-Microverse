@@ -7,7 +7,6 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -17,6 +16,7 @@
   - [Setup](#setup)
   - [Install](#install)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -69,6 +69,13 @@
 - Twitter: [@S_Rashmi11](https://twitter.com/S_Rashmi11)
 - LinkedIn: [@Rashmi_Prabodha](https://www.linkedin.com/mwlite/in/rashmi-prabodha-323aba263)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[javascript]**
+- [ ] **[React.js]**
+
 
 <!-- CONTRIBUTING -->
 
@@ -90,10 +97,8 @@ If you like this project give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank Microvere team.
-
+I would like to thank Microvere team.!
 
 <!-- LICENSE -->
 
@@ -102,3 +107,4 @@ I would like to thank Microvere team.
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
